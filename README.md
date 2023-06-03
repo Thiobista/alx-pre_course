@@ -1,2 +1,2 @@
-My first readme updated
+I am software engineer 
 
